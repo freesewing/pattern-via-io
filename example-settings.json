@@ -1,0 +1,14 @@
+{
+  "measurements": {
+    "biceps": 335,
+    "chest": 1080,
+    "hips": 980,
+    "hpsToWaistBack": 550,
+    "neck": 420,
+    "shoulderSlope": 16,
+    "shoulderToShoulder": 465,
+    "waistToHips": 145
+  },
+  "units":"metric",
+  "sa": 10
+}

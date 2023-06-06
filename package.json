@@ -1,0 +1,28 @@
+{
+  "name": "pattern-via-io",
+  "version": "0.0.1",
+  "private": true,
+  "description": "An example of how to create a stdin to FreeSewing to stdout script",
+  "main": "generate-pattern.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freesewing/pattern-via-io.git"
+  },
+  "author": "Joost De Cock <joost@joost.at>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freesewing/pattern-via-io/issues"
+  },
+  "homepage": "https://github.com/freesewing/pattern-via-io#readme",
+  "dependencies": {
+    "@freesewing/aaron": "next",
+    "@freesewing/brian": "next",
+    "@freesewing/core": "next",
+    "@freesewing/plugin-bundle": "next",
+    "@freesewing/plugin-bust": "next",
+    "@freesewing/plugin-theme": "next"
+  }
+}
